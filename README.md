@@ -8,5 +8,5 @@ pod install
 ```
 
 #### Tools
-Version 7.1 (7B91b)
-
+xcode Version 7.1 (7B91b)
+IOS 9.1
